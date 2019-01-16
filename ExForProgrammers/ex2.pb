@@ -1,5 +1,5 @@
 ﻿If OpenConsole()
-  Print("What is your name?")
+  Print("What is the input string?")
     PrintN("")
     Name$ = Input()
     PrintN("Hello, " + Name$ + ", nice to meet you!")
@@ -9,5 +9,3 @@
 ; IDE Options = PureBasic 5.70 LTS (Windows - x64)
 ; CursorPosition = 4
 ; EnableXP
-; Executable = ex1.exe
-; DisableDebugger
