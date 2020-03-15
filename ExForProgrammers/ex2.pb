@@ -6,6 +6,6 @@
     PrintN("Press return to exit")
     Input()
   EndIf
-; IDE Options = PureBasic 5.70 LTS (Windows - x64)
-; CursorPosition = 4
+; IDE Options = PureBasic 5.71 LTS (Windows - x64)
+; CursorPosition = 6
 ; EnableXP
